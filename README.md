@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joseph! 
   
   
-  <a href="https://www.linkedin.com/in/joseph-singh/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/channel/UCdQ9pD69P713vukVNNgLRtA">YouTuber</a></h1>
+  <a href="https://www.linkedin.com/in/joseph-singh/">Cybersecurity Enthusiast</a>, <a href="youtube.com/@Joseph-Cyber">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyberscurity Projects:</h2>
 
